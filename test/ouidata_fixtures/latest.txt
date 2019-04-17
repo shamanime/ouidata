@@ -1,0 +1,89 @@
+# Based on a the Wireshark OUI data file
+
+00:00:00	00:00:00	Officially Xerox, but 0:0:0:0:0:0 is more common
+00:00:01	Xerox	Xerox Corporation
+00:00:02	Xerox	Xerox Corporation
+00:00:03	Xerox	Xerox Corporation
+00:00:04	Xerox	Xerox Corporation
+00:00:05	Xerox	Xerox Corporation
+00:00:06	Xerox	Xerox Corporation
+00:00:07	Xerox	Xerox Corporation
+00:00:08	Xerox	Xerox Corporation
+00:00:09	Powerpip	powerpipes?
+00:00:0A	OmronTat	Omron Tateisi Electronics Co.
+00:00:0B	Matrix	Matrix Corporation
+00:00:0C	Cisco	Cisco Systems, Inc
+00:00:0D	Fibronic	Fibronics Ltd.
+00:00:0E	Fujitsu	Fujitsu Limited
+00:00:0F	Next	Next, Inc.
+00:00:10	Sytek	Sytek Inc.
+00:00:11	Normerel	Normerel Systemes
+00:00:12	Informat	Information Technology Limited
+00:00:13	Camex
+00:00:14	Netronix
+00:00:15	Datapoin	Datapoint Corporation
+00:00:16	DuPontPi	Du Pont Pixel Systems.
+00:00:17	Oracle
+00:00:18	WebsterC	Webster Computer Corporation	# Appletalk/Ethernet Gateway
+00:00:19	AppliedD	Applied Dynamics International
+00:00:1A	Advanced	Advanced Micro Devices
+00:00:1B	NovellNo	Novell (now Eagle Technology)
+00:00:1C	BellTech	Bell Technologies
+00:00:1D	Cabletro	Cabletron Systems, Inc.
+00:00:1E	TelsistI	Telsist Industria Electronica
+00:00:1F	Telco	Telco Systems, Inc.
+00:00:20	DIAB
+00:00:21	SC&C
+00:00:22	VisualTe	Visual Technology Inc.
+00:00:23	AbbAutom	ABB Automation AB, Dept. Q
+00:00:24	ConnectA	Connect As
+00:00:25	Ramtek	Ramtek Corp.
+00:00:26	Sha-Ken	Sha-Ken Co., Ltd.
+00:00:27	JapanRad	Japan Radio Company
+00:00:28	Prodigy	Prodigy Systems Corporation
+00:00:29	ImcNetwo	Imc Networks Corp.
+00:00:2A	Trw-Sedd	Trw - Sedd/Inp
+00:00:2B	CrispAut	Crisp Automation, Inc
+00:00:2C	Autotote	Autotote Limited
+00:00:2D	Chromati	Chromatics Inc
+00:00:2E	SocieteE	Societe Evira
+00:00:2F	Timeplex	Timeplex Inc.
+00:00:30	VgLabora	Vg Laboratory Systems Ltd
+00:00:31	QpsxComm	Qpsx Communications, Ltd.
+00:00:32	Marconi	Marconi plc
+00:00:33	EganMach	Egan Machinery Company
+00:00:34	NetworkR	Network Resources Corporation
+00:00:35	Spectrag	Spectragraphics Corporation
+00:00:36	Atari	Atari Corporation
+00:00:37	OxfordMe	Oxford Metrics Limited
+00:00:38	CssLabs	Css Labs
+00:00:39	Toshiba	Toshiba Corporation
+00:00:3A	Chyron	Chyron Corporation
+00:00:3B	IControl	i Controls, Inc.
+00:00:3C	Auspex	Auspex Systems Inc.
+00:00:3D	Unisys
+00:00:3E	Simpact
+00:00:3F	Syntrex	Syntrex, Inc.
+00:00:40	Applicon	Applicon, Inc.
+00:00:41	Ice	Ice Corporation
+00:00:42	MetierMa	Metier Management Systems Ltd.
+00:00:43	MicroTec	Micro Technology
+00:00:44	Castelle	Castelle Corporation
+00:00:45	FordAero	Ford Aerospace & Comm. Corp.
+00:00:46	Olivetti	Olivetti North America
+00:00:47	NicoletI	Nicolet Instruments Corp.
+00:00:48	SeikoEps	Seiko Epson Corporation
+00:00:49	ApricotC	Apricot Computers, Ltd
+00:00:4A	AdcCoden	Adc Codenoll Technology Corp.
+00:00:4B	IclDataO	Icl Data Oy
+00:00:4C	Nec	Nec Corporation
+00:00:4D	Dci	Dci Corporation
+00:00:4E	Ampex	Ampex Corporation
+00:00:4F	Logicraf	Logicraft 386-Ware P.C. Emulator
+00:00:50	Radisys	Radisys Corporation
+00:00:51	HobElect	Hob Electronic Gmbh & Co. Kg
+00:00:52	Intrusio	Intrusion.com, Inc.
+00:00:53	Compucor	Compucorp
+00:00:54	Schneide	Schneider Electric
+00:00:55	Commissa	Commissariat A L`Energie Atom.
+00:00:56	DrBStruc	Dr. B. Struck
